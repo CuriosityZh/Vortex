@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    background-color: #111;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    margin: 20px;
+}
+
+canvas {
+    border: 1px solid #fff;
+}
